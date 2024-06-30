@@ -1,0 +1,17 @@
+endi:
+  name: Mohd Arif
+  title: Software developper
+  # url: https://github.com/endiliey
+  image_url: https://media.licdn.com/dms/image/C4D03AQG4lFYtkftrCg/profile-displayphoto-shrink_200_200/0/1656696335235?e=1725494400&v=beta&t=sm_-gr41RTCEARihDNlkSR7vf_2aDfYgxobtlNawjdM
+
+yangshun:
+  name: Yangshun Tay
+  title: Front End Engineer @ Facebook
+  url: https://github.com/yangshun
+  image_url: https://github.com/yangshun.png
+
+slorber:
+  name: Sébastien Lorber
+  title: Docusaurus maintainer
+  url: https://sebastienlorber.com
+  image_url: https://github.com/slorber.png
