@@ -40,12 +40,22 @@ input, textarea {
 button {
   padding: 0.7em;
   color: #fff;
-  background-color: #007BFF;
+  background-color: #2e8555;
   border: none;
   border-radius: 5px;
   cursor: pointer;
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #48c07e;
+}
+
+/* src/components/SupportMessage.module.css */
+.supportMessage {
+  width: 100%;
+  text-align: center;
+  background-color: #ffcccc; /* Adjust to match your site's style */
+  padding: 10px 0;
+  color: #000; /* Adjust to match your site's style */
+  font-weight: bold;
 }

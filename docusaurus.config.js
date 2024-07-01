@@ -117,8 +117,24 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Tutorial",
-                to: "/docs/intro",
+                label: "Home",
+                to: "/",
+              },
+              {
+                label: "Collections",
+                to: "/docs/category/naats",
+              },
+              {
+                label: "About us",
+                to: "/aboutUs",
+              },
+              {
+                label: "Contact",
+                to: "/contact",
+              },
+              {
+                label: "Subscribe",
+                to: "/subscribe",
               },
             ],
           },
@@ -126,17 +142,17 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "linkedin",
+                href: "https://www.linkedin.com/in/mohd-arif-115b87231/",
               },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/docusaurus",
-              },
+              // {
+              //   label: "Discord",
+              //   href: "https://discordapp.com/invite/docusaurus",
+              // },
+              // {
+              //   label: "Twitter",
+              //   href: "https://twitter.com/docusaurus",
+              // },
             ],
           },
           {
@@ -146,14 +162,14 @@ const config = {
                 label: "Blog",
                 to: "/blog",
               },
-              {
-                label: "GitHub",
-                href: "https://github.com/mrmohdarif/Rabia",
-              },
+              // {
+              //   label: "GitHub",
+              //   href: "https://github.com/mrmohdarif/Rabia",
+              // },
             ],
           },
         ],
-        copyright: `CCopyright © 2024 Rabia, Made by Mohd Arif`,
+        copyright: `Copyright © 2024 Rabia, Made by Mohd Arif`,
       },
       prism: {
         theme: prismThemes.github,
