@@ -29,7 +29,7 @@ Explore our past newsletters to see what you've missed.
 
 ---
 
-For any queries or support, feel free to contact us at [support@rabia.com](mailto:support@rabia.com).
+For any queries or support, feel free to contact us at [inforabia84@gmail.com](mailto:inforabia84@gmail.com)
 
 ---
 

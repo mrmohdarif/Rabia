@@ -36,7 +36,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/mrmohdarif/Rabia"
   },
   "copyright": {
-    "message": "CCopyright © 2024 Rabia, Made by Mohd Arif",
+    "message": "Copyright © 2024 Rabia, Made by Mohd Arif",
     "description": "The footer copyright"
   }
 }
