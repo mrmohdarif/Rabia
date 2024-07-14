@@ -59,3 +59,13 @@ button:hover {
   color: #000; /* Adjust to match your site's style */
   font-weight: bold;
 }
+
+.pilars_of_islam{
+  text-align: center;
+}
+.pillars_name{
+  color: #2e8555;
+}
+.text{
+  text-align: justify;
+}

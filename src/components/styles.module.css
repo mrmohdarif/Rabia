@@ -9,8 +9,8 @@
   /* src/components/SliderComponent.css */
 
 .slider-container {
-  width: 80%;
-  margin: 0 auto;
+  width: 50%;
+  margin-bottom: 50px !important;
 }
 
 .slick-slide img {
@@ -18,7 +18,33 @@
   border-radius: 10px;
 }
 
+.slick-prev:before{
+  color: red !important;
+
+}
+.slider-item{
+font-size: 25px;
+}
+
+.slick-prev,
+.slick-next {
+  color: red !important;
+  border: 2px solid red !important;
+  background-color: transparent;
+}
+
+.slick-prev:hover,
+.slick-next:hover {
+  color: white !important;
+  background-color: red !important;
+}
 .slick-prev:before,
 .slick-next:before {
-  color: black;
+  color: red; /* Change the color to red */
+}
+
+.slick-prev:hover:before,
+.slick-next:hover:before {
+  color: white; /* Change the color to white on hover */
+  background-color: red; /* Add background color red on hover */
 }

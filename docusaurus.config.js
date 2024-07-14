@@ -82,18 +82,28 @@ const config = {
             position: "left",
             label: "Collections",
           },
+          
+          {
+            label: "99 Names of Allah",
+            to: "/99-Names-of-Allah",
+          },
+          {
+             type: "docSidebar",
+            sidebarId: "gretwomenSidebar",
+            position: "left",
+            label:"WOMEN IN ISLAM",
+            to: "/women-in-islam",
+          },
+          {
+            label:"THE HOLY SITES",
+            to: "/the-holy-sites",
+          },
+          {
+            label: "Events",
+            to: "/events",
+          },
+          
 
-          { to: "/blog", label: "Blog", position: "left" },
-          {
-            to: "/aboutUs",
-            position: "left",
-            label: "About us",
-          },
-          {
-            to: "/contact",
-            position: "left",
-            label: "Contact",
-          },
           { to: "/subscribe", 
             label: "Subscribe", 
             position: "left" 
@@ -139,6 +149,23 @@ const config = {
             ],
           },
           {
+            title:"Feature",
+            items:[
+              {
+                label: "Tasbih Counter",
+                to: "/tasbih-counter",
+              },
+              {
+                label:"Prayer Times Online",
+                to: "/prayer-times"
+              },
+              {
+                label:"99 Names of Allah",
+                to: "/99-names-of-Allah"
+              }
+            ]
+          },
+          {
             title: "Community",
             items: [
               {
@@ -169,6 +196,7 @@ const config = {
             ],
           },
         ],
+        
         copyright: `Copyright © 2024 Rabia, Made by Mohd Arif`,
       },
       prism: {

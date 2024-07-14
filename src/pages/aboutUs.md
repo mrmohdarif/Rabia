@@ -32,7 +32,7 @@ import rabiaImage3 from '@site/static/img/img3.jpeg';
     <p>Hi! I'm Mohd Arif. I created Rabia because I really want to share Islamic knowledge with everyone in a way that's easy to understand and makes a difference in their lives.</p>
     
     <h3>Meet Our Team</h3>
-    <p><strong>Mohd Arif</strong> - Founder & Owner:</p>
+    <p><strong>Mohd Arif</strong> - Admin</p>
     <p>Hi! I'm Mohd Arif, and the visionary behind Rabia. I founded Rabia out of a deep passion for sharing Islamic knowledge. Rabia as a platform to make Islamic learning accessible and meaningful for everyone. I am also a software developer, bringing technical expertise to enhance our platform.</p>
     <p><strong>[Team Member Name]</strong> - [Role or Position:YOU]</p>
     <p>Team Rabia, is seeking team members who share his passion for sharing Islamic knowledge. If you have relevant skills and are dedicated to making a meaningful impact, we invite you to join us. Contact us at <a href="mailto:inforabia84@gmail.com">inforabia84@gmail.com</a> to learn more about current opportunities.</p>
