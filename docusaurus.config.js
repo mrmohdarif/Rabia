@@ -100,7 +100,7 @@ const config = {
           },
           {
             label: "Events",
-            to: "/events",
+            to: "/Events",
           },
           
 
