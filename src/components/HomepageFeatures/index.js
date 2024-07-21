@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Roza (Fasting)',
-    path:require("../../../static/img/ramzaan.png").default,
+    path:require("../../../static/img/img4.jpeg").default,
     description: (
       <>
        Fasting during the month of Ramadan is one of the Five Pillars of Islam. Muslims abstain from food, drink, smoking, and other physical needs from dawn until sunset. Fasting is an act of worship and self-discipline, 

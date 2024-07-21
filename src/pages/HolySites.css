@@ -1,0 +1,106 @@
+/* HolySites.css */
+.holy-site-container {
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .holy-site-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .holy-site-buttons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .holy-site-buttons button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .holy-site-buttons button:hover {
+    background-color: #0056b3;
+  }
+  
+  .holy-site-description {
+    margin: 20px 0;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  .holy-site-images {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .holy-site-images img {
+    /* margin: 0 10px; */
+    /* max-width: 200px; */
+    border-radius: 10px;
+  }
+  .carousel-container {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .carousel-image {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+
+
+
+  /* src/css/custom-styles.css */
+
+.event-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .event-table th, .event-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .event-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .event-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .event-title {
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .event-description {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
+  .important-notes {
+    margin-top: 20px;
+    font-style: italic;
+  }
+  
+  .important-notes ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
