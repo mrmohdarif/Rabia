@@ -1,6 +1,6 @@
 // src/components/HolySites.js
 import React, { useState } from 'react';
-import HolysiteCoursoul from './HolysiteCoursoul';
+import HolysiteCoursoul from '../pages/HolysiteCoursoul';
 import './HolySites.css';
 const sitesInfo = {
     mecca: {
