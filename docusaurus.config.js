@@ -13,7 +13,7 @@ const config = {
   favicon: "img/RabiaLogo.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-site.example.com",
+  url: "http://localhost:3000",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -28,11 +28,13 @@ const config = {
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: "en",
-    locales: ["en", "hi"],
-  },
+  // may want to replace "en" with "zh-Hans"
+
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en'],
+  // },
+
 
   presets: [
     [
@@ -72,10 +74,10 @@ const config = {
           src: "img/Rabia.ico",
         },
         items: [
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
+          // {
+          //   type: "localeDropdown",
+          //   position: "right",
+          // },
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
@@ -88,7 +90,7 @@ const config = {
             to: "/99-Names-of-Allah",
           },
           {
-             type: "docSidebar",
+            type: "docSidebar",
             sidebarId: "gretwomenSidebar",
             position: "left",
             label:"WOMEN IN ISLAM",
@@ -114,10 +116,10 @@ const config = {
             position: "right",
           },
 
-          {
-            type: "search",
-            position: "right",
-          },
+          // {
+          //   type: "search",
+          //   position: "right",
+          // },
         ],
       },
       footer: {
